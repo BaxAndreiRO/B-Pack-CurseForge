@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "item": "ironbackpacks:backpack|0",
+      "emc": 0
+    },
+    {
+      "item": "galacticraftcore:bucket_oil|0",
+      "emc": 800
+    },
+    {
+      "item": "astralsorcery:itemconstellationpaper|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:enchanted_book|0",
+      "emc": 0
+    }
+  ]
+}
