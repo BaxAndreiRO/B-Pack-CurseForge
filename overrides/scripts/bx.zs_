@@ -1,2 +1,0 @@
-recipes.remove(<erebus:silk>);
-recipes.addShaped(<erebus:silk>,[[<harvestcraft:wovencottonitem>,<harvestcraft:wovencottonitem>,<harvestcraft:wovencottonitem>],[<harvestcraft:wovencottonitem>,<harvestcraft:wovencottonitem>,<harvestcraft:wovencottonitem>],[<harvestcraft:wovencottonitem>,<harvestcraft:wovencottonitem>,<harvestcraft:wovencottonitem>]]);

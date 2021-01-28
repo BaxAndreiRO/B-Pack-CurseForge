@@ -15,6 +15,22 @@
     {
       "item": "minecraft:enchanted_book|0",
       "emc": 0
+    },
+    {
+      "item": "immersiveengineering:blueprint|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|1025",
+      "emc": 417
+    },
+    {
+      "item": "thermalfoundation:material|1024",
+      "emc": 355
+    },
+    {
+      "item": "minecraft:sugar|0",
+      "emc": 32
     }
   ]
 }

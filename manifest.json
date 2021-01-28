@@ -10,9 +10,9 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Minecraft Modat 1.12.2",
-  "version": "1.0.0",
-  "author": "",
+  "name": "B-Pack",
+  "version": "1.0.1",
+  "author": "BaxAndrei",
   "files": [
     {
       "projectID": 225635,
@@ -41,7 +41,7 @@
     },
     {
       "projectID": 282623,
-      "fileID": 3076992,
+      "fileID": 3179932,
       "required": true
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "projectID": 377652,
-      "fileID": 3169662,
+      "fileID": 3182552,
       "required": true
     },
     {
@@ -232,6 +232,11 @@
     {
       "projectID": 70496,
       "fileID": 2518031,
+      "required": true
+    },
+    {
+      "projectID": 254818,
+      "fileID": 2992813,
       "required": true
     },
     {
@@ -527,11 +532,6 @@
     {
       "projectID": 242818,
       "fileID": 2779848,
-      "required": true
-    },
-    {
-      "projectID": 376876,
-      "fileID": 3178347,
       "required": true
     },
     {
@@ -936,7 +936,7 @@
     },
     {
       "projectID": 244258,
-      "fileID": 3162137,
+      "fileID": 3180034,
       "required": true
     },
     {
@@ -997,6 +997,11 @@
     {
       "projectID": 248787,
       "fileID": 2987247,
+      "required": true
+    },
+    {
+      "projectID": 391768,
+      "fileID": 2995865,
       "required": true
     },
     {
