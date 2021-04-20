@@ -31,6 +31,66 @@
     {
       "item": "minecraft:sugar|0",
       "emc": 32
+    },
+    {
+      "item": "redstonearsenal:material|0",
+      "emc": 1680
+    },
+    {
+      "item": "aether_legacy:aether_dirt|0",
+      "emc": 1
+    },
+    {
+      "item": "aether_legacy:holystone|0",
+      "emc": 1
+    },
+    {
+      "item": "aether_legacy:blue_berry|0",
+      "emc": 128
+    },
+    {
+      "item": "aether_legacy:ambrosium_shard|0",
+      "emc": 128
+    },
+    {
+      "item": "aether_legacy:enchanted_blueberry|0",
+      "emc": 256
+    },
+    {
+      "item": "tp:raspberry_berry|0",
+      "emc": 128
+    },
+    {
+      "item": "tp:blackberry_berry|0",
+      "emc": 128
+    },
+    {
+      "item": "tp:maloberry_berry|0",
+      "emc": 128
+    },
+    {
+      "item": "tp:blueberry_berry|0",
+      "emc": 128
+    },
+    {
+      "item": "harvestcraft:avocadoitem|0",
+      "emc": 128
+    },
+    {
+      "item": "harvestcraft:sesameseedsitem|0",
+      "emc": 10
+    },
+    {
+      "item": "endermanevo:friender_pearl|0",
+      "emc": 1024
+    },
+    {
+      "item": "thermalfoundation:material|800",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:material|99",
+      "emc": 160
     }
   ]
 }
